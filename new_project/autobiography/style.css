@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(185, 152, 152);
+    font-size: large;
+}
+
+cite{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+mark{
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
